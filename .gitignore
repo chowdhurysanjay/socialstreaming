@@ -8,3 +8,6 @@
 
 #target dir#
 target/
+
+#settings#
+.settings/
